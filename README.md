@@ -10,4 +10,4 @@ Projeto desenvolvido durante o minicurso da Michelli Brito utilizando Spring Boo
 
 ## Funcionalidades
 - Cadastro e listagem de eventos
-- Integração com banco de dados H2
+- Integração com banco de dados H2 
